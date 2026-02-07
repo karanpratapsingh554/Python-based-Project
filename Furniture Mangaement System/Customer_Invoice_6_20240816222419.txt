@@ -1,0 +1,10 @@
+************************************************************
+Furniture Purchase Invoice (Customer)
+************************************************************
+Customer Name: pratap
+ID: 6
+Manufacturer:  Masco Corporation
+Product:  Desk chair
+Quantity: 5
+Price per Unit:  $100
+Total Price (excluding shipping): $500.00

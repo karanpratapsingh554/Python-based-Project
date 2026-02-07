@@ -1,0 +1,9 @@
+************************************************************
+Final Purchase Invoice
+************************************************************
+Total Amount (before VAT and shipping): $4500.00
+Shipping Cost: $0.00
+VAT (13%): $585.00
+Total Amount to be Paid: $5085.00
+Date and Time: 2024-08-16 20:25:20
+Thank you for your purchase!
